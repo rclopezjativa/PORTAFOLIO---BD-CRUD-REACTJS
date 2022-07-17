@@ -22,4 +22,4 @@ Se crea un formulario con tecnología REACTJS, en el mismo que se programa los d
 </UL>
 <b><h4>NOTA:</h4></b> Por seguridad el hosting utilzado para publicar el API REST no permite accesos en background desde otros dominios ya que son utilizados estrictamente para crear sitios web.
 <br><br>Para realizar pruebas de esta solución se deberá descargar el código del API REST e implemetarlo localmente, para ello pueden hacer uso de la herramienta <a href="https://www.apachefriends.org/download.html" target="_blank">XAMPP</a>
-<br><br>Cabe mencionar que debe realizar los ajustes necesarios como son: la declaración de las credenciales de acceso a la base de datos, la configuración del dominio local "apirest.com", entre otros ajustes necesarios.
+<br><br>Cabe mencionar que debe realizar los ajustes necesarios como son: la creración de la base de fdatos, la declaración de las credenciales de acceso a la base de datos, la configuración del dominio local "apirest.com", entre otros ajustes necesarios.
